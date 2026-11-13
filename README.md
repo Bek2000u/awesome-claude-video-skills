@@ -6,6 +6,8 @@ Open-source skills and toolkits that let **Claude Code, Codex and other coding a
 
 Live page with filters: **[https://agentskillshub.top/best/claude-video-skills/](https://agentskillshub.top/best/claude-video-skills/)** · refreshed every 8 hours
 
+> **From this fork:** [AI filmmaking repositories](AI-FILM.md) covers additional studios, tools, skills and research.
+
 ## Which one to install
 
 We ran 16 of these end to end (16 gave a result). This is what we would pick; the [full test](#tested) is below.
